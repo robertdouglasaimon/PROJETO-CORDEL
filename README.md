@@ -1,4 +1,4 @@
-<h1>Landing Page com Efeito Parallax</h1>
+<h1>Page com Efeito Parallax</h1>
 <p>Este projeto consiste em uma Landing Page desenvolvida inteiramente com HTML e CSS, com destaque para o efeito parallax implementado.</p>
 
 <h2>Descrição</h2>
